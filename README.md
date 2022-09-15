@@ -1,7 +1,7 @@
 # Proposal
 
 ## Permasalahan
-- Sejauh ini aplikasi chat rata-rata menggunakan aplikasi, bagaimana kalau aplikasi chat yg sering kita gunakan tidak dapat di akses?
+- Sejauh ini aplikasi chat rata-rata menggunakan aplikasi, bagaimana kalau aplikasi chat yg sering kita gunakan di handphone tidak bisa di buka?
 
 ## Rancangan Solusi
 - Membuat aplikasi chat berbasis website
@@ -24,3 +24,4 @@ Username | String | Maryam
 Password | Varchar | maryam123
 
 ## UX Wireframe
+<img width="269" alt="Screen Shot 2022-09-15 at 11 09 38" src="https://user-images.githubusercontent.com/101255568/190312243-3ec51579-54a1-4b97-8982-d7c5f4d94767.png">
