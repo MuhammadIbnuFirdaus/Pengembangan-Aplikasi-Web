@@ -1,7 +1,7 @@
 # Proposal
 
 ## Permasalahan
-- Sejauh ini aplikasi chating rata-rata menggunakan aplikasi, bagaimana kalau aplikasi chat yg sering kita gunakan di handphone tidak bisa di buka?
+- Sejauh ini aplikasi chating rata-rata menggunakan aplikasi, bagaimana kalau aplikasi chat yg sering kita gunakan di handphone tidak bisa di buka?, atau bagaimna kalau handphone kita rusak?
 
 ## Rancangan Solusi
 - Membuat aplikasi chat berbasis website
